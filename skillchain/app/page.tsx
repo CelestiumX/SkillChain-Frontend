@@ -1,5 +1,5 @@
-import ContractStepper from '@/components/modules/contracts/form/ContractStepper';
+import { LandingPage } from '@/components/landing/landing-page';
 
 export default function Home() {
-  return <ContractStepper />;
+  return <LandingPage />;
 }
